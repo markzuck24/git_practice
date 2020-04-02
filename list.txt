@@ -8,7 +8,10 @@ strawberries
 
 
 Meat
-
+milk 
+eggs
+butter
+cheese
 
 
 Household
