@@ -11,6 +11,12 @@ Meat
 beaf
 pork
 
+milk
+eggs
+butter
+cheese
+
+ dairy
 
 
 Household
